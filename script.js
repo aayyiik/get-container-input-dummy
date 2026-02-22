@@ -59,7 +59,9 @@ Semoga di level umur yang baru (dan makin dewasa ini 😌) kamu makin waras, mak
 
 Semoga nggak terlalu maksain diri terus-terusan, rezekinya ngalir (boleh lah 1T 🤭), sehat terus, dan hal-hal kecil yang bikin kamu seneng makin sering kejadian.
 
-Semoga kamu bisa lebih damai sama diri sendiri, nggak terlalu keras, dan makin peka sama hal-hal baik di sekitar kamu. Tetap jadi kamu yang aku kenal—yang kadang nyebelin tapi hatinya tetap baik.
+Semoga kamu bisa lebih damai sama diri sendiri, nggak terlalu keras, dan makin peka sama hal-hal baik di sekitar kamu. 
+
+Semoga banyak hal baik datang ke kamu dan kamu dikelilingi orang orang yang baik.
 
 Pokoknya semoga tahun ini kamu upgrade, tapi nggak kehilangan versi kamu yang sekarang.
 
