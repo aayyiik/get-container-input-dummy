@@ -27,9 +27,10 @@ function updateDisplay() {
 }
 
 function checkPassword() {
-    const todayPassword = formatToday();
 
-    if (inputValue === todayPassword) {
+    const correctPassword = "220226";
+
+    if (inputValue === correctPassword) {
         document.getElementById("loginBox").style.display = "none";
         document.getElementById("birthdayContent").classList.remove("hidden");
 
@@ -50,6 +51,7 @@ function checkPassword() {
         updateDisplay();
     }
 }
+
 
 
 
